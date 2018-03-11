@@ -1191,11 +1191,19 @@ figure {
   .header-tree {
     width: 42%;
   }
+
+  .fh5co-cover .display-tc h2 {
+    font-size: 60px;
+  }
 }
 
 @media screen and (max-width: 768px) {
   .fh5co-hero{
     background-position: center;
+  }
+
+  .fh5co-cover .display-tc h2 {
+    font-size: 50px;
   }
 
   .header-tree {
@@ -1219,6 +1227,20 @@ figure {
     float: none;
     width: 100%;
   }
+
+  .fh5co-cover .display-tc h2 {
+    font-size: 50px;
+  }
+  .fh5co-cover .display-tc p {
+    width: 100%;
+  }
+
+  .sub-page .fh5co-cover .display-tc {
+    vertical-align: top;
+  }
+  /* .fh5co-cover .display-tc h1 {
+
+  } */
 }
 
 @media screen and (max-width: 425px) {
