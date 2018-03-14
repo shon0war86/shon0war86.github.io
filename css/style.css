@@ -331,7 +331,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #F69D9D;
+  color: white;
 }
 
 .sf-menu ul li:hover,
